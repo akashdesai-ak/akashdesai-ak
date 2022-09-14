@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash Desai
 - 👀 I’m interested in Web , Android App & Software Development
-- 🌱 I’m currently learning Android Development and Software Development
+- 🌱 I’m currently learning Web Development and Software Development
 - 📫 How to reach me aakashdesai.ak@gmail.com
 
 <!---
