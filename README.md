@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Akash Desai
-- 👀 I’m interested in Web , Android App & Software Development
-- 🌱 I’m currently learning Web Development and Software Development
-- 📫 How to reach me aakashdesai.ak@gmail.com
+- 👋 Hi, I’m Akash Desai.
+- 👀 I’m interested in Web Developer.
+- 🌱 I’m currently learning Web Development and Software Development.
+- 📫 How to reach me aakashdesai.ak@gmail.com.
 
 <!---
 akashdesai-ak/akashdesai-ak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
